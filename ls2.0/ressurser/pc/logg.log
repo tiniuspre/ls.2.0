@@ -1,0 +1,322 @@
+17-Mar-21 13:22:08 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:22:08 - root - INFO - Koblet til database
+
+17-Mar-21 13:22:08 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:22:08 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:22:08 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:22:08 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:22:08 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:23:25 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:23:25 - root - INFO - Koblet til database
+
+17-Mar-21 13:23:25 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:23:25 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:23:25 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:23:25 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:23:25 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:23:40 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:23:40 - root - INFO - Koblet til database
+
+17-Mar-21 13:23:40 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:23:40 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:23:40 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:23:40 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:23:40 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:24:18 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:24:18 - root - INFO - Koblet til database
+
+17-Mar-21 13:24:18 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:24:18 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:24:18 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:24:18 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:24:18 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:24:58 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:24:58 - root - INFO - Koblet til database
+
+17-Mar-21 13:24:58 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:24:58 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:24:58 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:24:58 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:24:58 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:25:23 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:25:23 - root - INFO - Koblet til database
+
+17-Mar-21 13:25:23 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:25:23 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:25:23 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:25:23 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:25:23 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:26:35 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:26:35 - root - INFO - Koblet til database
+
+17-Mar-21 13:26:35 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:26:35 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:26:35 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:26:35 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:26:35 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:28:00 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:28:00 - root - INFO - Koblet til database
+
+17-Mar-21 13:28:00 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:28:00 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:28:00 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:28:00 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:28:00 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:29:08 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:29:08 - root - INFO - Koblet til database
+
+17-Mar-21 13:29:08 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:29:08 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:29:08 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:29:08 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:29:08 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:31:51 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:31:51 - root - INFO - Koblet til database
+
+17-Mar-21 13:31:51 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:31:51 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:31:51 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:31:51 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:31:51 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:32:03 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:32:03 - root - INFO - Koblet til database
+
+17-Mar-21 13:32:03 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:32:03 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:32:03 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:32:03 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:32:03 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:33:39 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:33:39 - root - INFO - Koblet til database
+
+17-Mar-21 13:33:39 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:33:39 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:33:39 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:33:39 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:33:39 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:33:47 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:33:47 - root - INFO - Koblet til database
+
+17-Mar-21 13:33:47 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:33:47 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:33:47 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:33:47 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:33:47 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:34:01 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:34:01 - root - INFO - Koblet til database
+
+17-Mar-21 13:34:01 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:34:01 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:34:01 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:34:01 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:34:01 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:37:39 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:37:39 - root - INFO - Koblet til database
+
+17-Mar-21 13:37:39 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:37:39 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:37:39 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:37:39 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:37:39 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:41:13 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:41:13 - root - INFO - Koblet til database
+
+17-Mar-21 13:41:13 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:41:13 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:41:13 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:41:13 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:41:13 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:41:41 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:41:41 - root - INFO - Koblet til database
+
+17-Mar-21 13:41:41 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:41:41 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:41:41 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:41:41 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:41:41 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:44:00 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:44:00 - root - INFO - Koblet til database
+
+17-Mar-21 13:44:00 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:44:00 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:44:00 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:44:00 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:44:00 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:44:20 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:44:20 - root - INFO - Koblet til database
+
+17-Mar-21 13:44:20 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:44:20 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:44:20 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:44:20 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:44:20 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:44:59 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:44:59 - root - INFO - Koblet til database
+
+17-Mar-21 13:44:59 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:44:59 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:44:59 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:44:59 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:44:59 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:49:48 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:49:48 - root - INFO - Koblet til database
+
+17-Mar-21 13:49:48 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:49:48 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:49:48 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:49:48 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:49:48 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:54:27 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:54:27 - root - INFO - Koblet til database
+
+17-Mar-21 13:54:27 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:54:27 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:54:27 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:54:27 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:54:27 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
+17-Mar-21 13:55:14 - mysql.connector.connection - DEBUG - new_auth_plugin: mysql_native_password
+
+17-Mar-21 13:55:14 - root - INFO - Koblet til database
+
+17-Mar-21 13:55:14 - root - WARNING - Tabell finnes, navn = brukere, FEIL = 1050 (42S01): Table 'brukere' already exists
+
+17-Mar-21 13:55:14 - root - WARNING - Tabell finnes, navn = lont_utstyr, FEIL = 1050 (42S01): Table 'lont_utstyr' already exists
+
+17-Mar-21 13:55:14 - root - WARNING - Tabell finnes, navn = total_ustyr, FEIL = 1050 (42S01): Table 'total_ustyr' already exists
+
+17-Mar-21 13:55:14 - root - WARNING - Tabell finnes, navn = tilgjengelig_utstyr, FEIL = 1050 (42S01): Table 'tilgjengelig_utstyr' already exists
+
+17-Mar-21 13:55:14 - root - WARNING - Tabell finnes, navn = klasser, FEIL = 1050 (42S01): Table 'klasser' already exists
+
